@@ -50,6 +50,7 @@ Portfolio: Under construction :]
   <img src="./svgs/trello.svg" height="25px" width="25px"/>
   <img src="./svgs/webpack-icon.svg" height="25px" width="25px"/>
 </div>
+
 ## <a id="blog"></a> Blog
 Here is an idea that was given to me: write your thoughts down so you can commit them to memory and then share them with others so you can continue to grow and learn.
 
