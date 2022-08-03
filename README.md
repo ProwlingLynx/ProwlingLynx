@@ -8,6 +8,8 @@ Here you will find my beautifully unorganized repositories that range from shiny
 ## <a id="contact-me"></a> Contact Details:
 🌱 Currently looking for work :)
 
+Resume: [Public Resume](https://docs.google.com/document/d/108FOg323Tvo0_gLL_rF1ExxItyJYgDeS3QqVsiDcmH8/edit?usp=sharing)
+
 Email: [prowling.lynx1@gmail.com](prowling.lynx1@gmail.com)
 
 Linkedin: [Javier Tamez](https://www.linkedin.com/in/javier-tamez/)
@@ -20,7 +22,7 @@ Portfolio: Under construction :]
 - [Blog](#blog)
 - [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repos I built while attending Hack Reactor.
 - [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
-- [Books](#books)
+- [Books](#booksq:)
 
 ## <a id="blog"></a> Blog
 Here is an idea that was given to me: write your thoughts down so you can commit them to memory and then share them with others so you can continue to grow and learn.
