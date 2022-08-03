@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 My name is Javier Tamez and I am a software engineer, a Hack Reactor alumni, web developer, and stubbornly curious. At the time of writing this, I am also an active job seeker looking to break into the tech industry.
 
-In here you will find my beautifully unorganized repositories that range from shiny baubles I've found in the wild to my most recent personal projects like my fledgling markdown blog experiment. I do enjoy it when people come to visit my profile and see what I've been up to. If you would like to chat, then reach out to me on LinkedIn or send me an email. I look forward to hearing from you!
+Here you will find my beautifully unorganized repositories that range from shiny baubles I've found in the wild to my most recent personal projects like my fledgling markdown blog experiment. I do enjoy it when people come to visit my profile and see what I've been up to. If you would like to chat, then reach out to me on LinkedIn or send me an email. I look forward to hearing from you!
 
 ## <a id"contact-me"></a> Contact details:
 ---
@@ -20,8 +20,8 @@ Portfolio: Under construction :]
 - [Greetings](#greetings)
 - [Contact details](#contact-me)
 - [Blog](#blog)
-- [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies)
-- [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone)
+- [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repos I built while attending Hack Reactor.
+- [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
 
 ## <a id="blog"></a> Blog
 ---
@@ -35,7 +35,12 @@ Without further ado, here is my temporary solution for blogging: [Blogs](https:/
 
 ## <a id="books"></a> Books
 ---
-
+These are some books I've found looking through GitHub. I do not own any of them or was the one to create the repository. Still, if anything is amiss feel free to reach out to me. [Contact](#contact-me)
+- [Eloquent Javascript](https://eloquentjavascript.net/) - Written by Marijn Haverbeke. I highly recommend reading this book if you are new to javascript.
+- [Books for programmers](https://github.com/ProwlingLynx/Book-For-Programmers/tree/master) - link to the original [repo](https://github.com/rajucs/Book-For-Programmers)
+- [BookBank](https://github.com/ProwlingLynx/BookBank)- link to the original [repo](https://github.com/ajitpal/BookBank)
+- [Free Algorithim Books](https://github.com/ProwlingLynx/Free-Algorithm-Books)- link to the original [repo](https://github.com/cjbt/Free-Algorithm-Books)
+- [You don't know JS](https://github.com/ProwlingLynx/You-Dont-Know-JS) -link to the original [repo](https://github.com/getify/You-Dont-Know-JS)
 
 <!-- https://api.github.com/repos/:owner/:repo/contents/:path -->
 
