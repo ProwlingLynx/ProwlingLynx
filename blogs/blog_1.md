@@ -4,7 +4,7 @@
 ---
 ## Wins
  1. I was able to send out 5 job applications.
- 2. I was able to solve a medium-level problem within my own time limit.
+ 2. I was able to solve a medium-level problem within my time limit.
  3. I learned a bit more about the importance of time management.
 ---
 ## Today's happenings and why I think Murphy's Law is a thing
@@ -15,8 +15,8 @@ I know the skill to work on one task and then work on another different task is 
 
 So no matter what, things will always come up to distract you. That is Murphy doing his thing. Not all distractions are created equal. You may find your phone going off, or your favorite social app, making you look away from your work. That is a distraction that you can control. Family emergency, not so much.
 
-In order to control this, I decided to reduce these distractions by setting blocks of time for each activity along with a goal to accomplish (time boxing). Then I would silence all the devices and mute my sound so that it was just me and the task at hand. If I found myself looking away from the screen then I note what it was that grabbed my attention in a notepad. By the end of the day, I would have a list of distractions where I could see what was grabbing my attention the most. When I would try it the next day, I would see if I could mitigate the largest distraction on the list.
+To control this, I decided to reduce these distractions by setting blocks of time for each activity along with a goal (time boxing). Then I would silence all the devices and mute my sound so that it was just me and the task at hand. If I found myself looking away from the screen then I note what it was that grabbed my attention in a notepad. By the end of the day, I would have a list of distractions where I could see what was grabbing my attention the most. When I would try it the next day, I would see if I could mitigate the largest distraction on the list.
 
-I know that there are some things you cannot do without like knowing if your family is okay. I get that, but if you look at the do not disturb feature on your phone, you will see that it can be set up to allow specific notifications through. I've never personally used this feature, but when you start to google for ideas on how to control the environment around you, you will find that this is a common theme.
+I know that there are some things you cannot do without like knowing if your family is okay. I get that, but if you look at the do not disturb feature on your phone, you will see that it can be set up to allow specific notifications. I've never personally used this feature, but when you start to google for ideas on how to control the environment around you, you will find that this is a common theme.
 
 In short, time boxing and multitasking are important skills to have but you can increase the efficiency of those skills by removing distractions from your environment. Otherwise, you will end up feeling flustered as your plans get derailed and make it difficult for you to recover.
