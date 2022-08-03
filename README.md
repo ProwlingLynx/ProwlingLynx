@@ -22,7 +22,7 @@ Portfolio: Under construction :]
 - [Blog](#blog)
 - [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repos I built while attending Hack Reactor.
 - [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
-- [Books](#booksq:)
+- [Books](#books)
 
 ## <a id="blog"></a> Blog
 Here is an idea that was given to me: write your thoughts down so you can commit them to memory and then share them with others so you can continue to grow and learn.
