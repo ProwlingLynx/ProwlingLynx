@@ -30,3 +30,5 @@ What I am not saying is that it is faster to use the mouse, but I find it easier
 At first, it is very difficult to memorize all the shortcuts on the keyboard and the syntax for the CLI.
 What worked for me is to stop every time I reached for the mouse and look up if there is a keybinding to what I was trying to do. Once I found it, I used it and carried on. Granted I still reach for the mouse when I need to browse the web, but I have reduced the overall number of times I do so elsewhere.
 The biggest point in using the keyboard and the CLI by extension is that it just looks cool to see your windows and code moving without that pesky mouse. :]
+
+[<- Index](README.html)

@@ -20,3 +20,5 @@ To control this, I decided to reduce these distractions by setting blocks of tim
 I know that there are some things you cannot do without like knowing if your family is okay. I get that, but if you look at the do not disturb feature on your phone, you will see that it can be set up to allow specific notifications. I've never personally used this feature, but when you start to google for ideas on how to control the environment around you, you will find that this is a common theme.
 
 In short, time boxing and multitasking are important skills to have but you can increase the efficiency of those skills by removing distractions from your environment. Otherwise, you will end up feeling flustered as your plans get derailed and make it difficult for you to recover.
+
+[<- Index](README.html)
