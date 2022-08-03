@@ -66,7 +66,7 @@ I have a resistance to writing my thoughts down publically in all truthfulness. 
 
 I don't have any real way to have public feedback at this time, but feel free to reach out via [my contact details](#contact-me)
 
-Without further ado, here is my temporary solution for blogging: [Blogs](https://github.com/ProwlingLynx)
+Without further ado, here is my temporary solution for blogging: [Blogs](./blogs/README.md)
 
 ## <a id="books"></a> Books
 These are some books I've found looking through GitHub. I do not own any of them or was the one to create the repository. Still, if anything is amiss feel free to reach out to me. [Contact](#contact-me)
