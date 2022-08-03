@@ -5,7 +5,7 @@ My name is Javier Tamez and I am a software engineer, a Hack Reactor alumni, web
 
 Here you will find my beautifully unorganized repositories that range from shiny baubles I've found in the wild to my most recent personal projects like my fledgling markdown blog experiment. I do enjoy it when people come to visit my profile and see what I've been up to. If you would like to chat, then reach out to me on LinkedIn or send me an email. I look forward to hearing from you!
 
-## <a id"contact-me"></a> Contact details:
+## <a id="contact-me"></a> Contact details:
 ---
 🌱 Currently looking for work :)
 
