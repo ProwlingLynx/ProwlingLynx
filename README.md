@@ -19,10 +19,35 @@ Portfolio: Under construction :]
 ## Index
 - [Greetings](#greetings)
 - [Contact details](#contact-me)
+- [Technologies](#tech)
 - [Blog](#blog)
 - [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repos I built while attending Hack Reactor.
 - [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
 - [Books](#books)
+
+## <a id="tech"></a> Tech
+<!-- ![Alt text](./svgs/logo-javascript.svg) -->
+<img src="./svgs/logo-javascript.svg" height="25px" width="25px"/>
+<img src="./svgs/html-1.svg" height="25px" width="25px"/>
+<img src="./svgs/css-3.svg" height="25px" width="25px"/>
+<img src="./svgs/aws-ec2.svg" height="25px" width="25px"/>
+<img src="./svgs/babel-10.svg" height="25px" width="25px"/>
+<img src="./svgs/express-109.svg" height="25px" width="25px"/>
+<img src="./svgs/github-icon-1.svg" height="25px" width="25px"/>
+<img src="./svgs/google-1-1.svg" height="25px" width="25px"/>
+<img src="./svgs/heroku-1.svg" height="25px" width="25px"/>
+<img src="./svgs/jest-2.svg" height="25px" width="25px"/>
+<img src="./svgs/mongodb-icon-1.svg" height="25px" width="25px"/>
+<img src="./svgs/mysql-6.svg" height="25px" width="25px"/>
+<img src="./svgs/nodejs-icon.svg" height="25px" width="25px"/>
+<img src="./svgs/notion-logo-1.svg" height="25px" width="25px"/>
+<img src="./svgs/postman.svg" height="25px" width="25px"/>
+<img src="./svgs/react-2.svg" height="25px" width="25px"/>
+<img src="./svgs/slack-new-logo.svg" height="25px" width="25px"/>
+<img src="./svgs/socket-io.svg" height="25px" width="25px"/>
+<img src="./svgs/styled-components-1.svg" height="25px" width="25px"/>
+<img src="./svgs/trello.svg" height="25px" width="25px"/>
+<img src="./svgs/webpack-icon.svg" height="25px" width="25px"/>
 
 ## <a id="blog"></a> Blog
 Here is an idea that was given to me: write your thoughts down so you can commit them to memory and then share them with others so you can continue to grow and learn.
