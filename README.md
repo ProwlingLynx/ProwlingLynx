@@ -1,9 +1,9 @@
 <img src="./images/d&d.jpeg" width="100%" height="100%" z-index="-2" position="absolute"/>
 
 # <a id="greetings"></a> Greetings All!
-Welcome to my GitHub profile!
+Welcome to my GitHub!
 
-My name is Javier Tamez and I am a software engineer, a Hack Reactor alumni, web developer, and stubbornly curious. At the time of writing this, I am also an active job seeker looking to break into the tech industry.
+My name is Javier Tamez and I am a software engineer, a Hack Reactor alumni, web developer, and stubbornly curious.
 
 Here you will find my beautifully unorganized repositories that range from shiny baubles I've found in the wild to my most recent personal projects like my fledgling markdown blog experiment. I do enjoy it when people come to visit my profile and see what I've been up to. If you would like to chat, then reach out to me on LinkedIn or send me an email. I look forward to hearing from you!
 
@@ -22,10 +22,16 @@ Portfolio: Under construction :]
 - [Greetings](#greetings)
 - [Contact details](#contact-me)
 - [Technologies](#tech)
+- [About Me](#about-me)
 - [Blog](#blog)
 - [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repos I built while attending Hack Reactor.
 - [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
 - [Books](#books)
+
+## <a id="about-me"></a> About Me
+I generally enjoy playing games with friends and family. I collect, paint, and assemble minatures for a tabletop game called Warhammer 40k. My family consists of 3 dogs, a cat, a bird, and 3 siblings plus parents. I am the oldest of the bunch, but you wouldn't be able to tell because I'm also the shortest.
+
+When I'm not coding I tend to browse youtube, read web fiction, walk the dog(s), or play video games. Provided I don't have any outstanding responsibilities.
 
 ## <a id="tech"></a> Tech
 <!-- ![Alt text](./svgs/logo-javascript.svg) -->
