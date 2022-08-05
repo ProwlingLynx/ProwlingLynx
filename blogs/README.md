@@ -15,3 +15,4 @@ One day as we were talking about the current job market, she asked what steps I 
 # Index
 - [The first post](blog_1.md)
 - [Keyboard vs mouse](blog_2.md)
+- [Planning a goal to learn C#](blog_3.md)
