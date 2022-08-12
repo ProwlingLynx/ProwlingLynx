@@ -23,7 +23,6 @@ Portfolio: Under construction :]
 - [Contact details](#contact-me)
 - [Technologies](#tech)
 - [About Me](#about-me)
-- [Blog](#blog)
 - [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repositories I built while attending Hack Reactor.
 - [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
 - [Books](#books)
@@ -58,15 +57,6 @@ When I'm not coding I tend to browse youtube, read web fiction, walk the dog(s),
   <img src="./svgs/trello.svg" height="50px" width="50px"/>
   <img src="./svgs/webpack-icon.svg" height="50px" width="50px"/>
 </div>
-
-## <a id="blog"></a> Blog
-Here is an idea that was given to me: write your thoughts down so you can commit them to memory and then share them with others so you can continue to grow and learn.
-
-I have a resistance to writing my thoughts down publically in all truthfulness. Something about knowing the world will be able to scrutinize my thoughts and knowing I will eventually write something factually wrong scares me. To say I am uncomfortable is an understatement. So to make the experience a bit more comfortable, and hopefully more fun, I intend to write a blog post every day using this public repository until I get a site up and running to house my thoughts.
-
-I don't have any real way to have public feedback at this time, but feel free to reach out via [my contact details](#contact-me)
-
-Without further ado, here is my temporary solution for blogging: [Blogs](./blogs/README.md)
 
 ## <a id="books"></a> Books
 These are some books I've found looking through GitHub. I do not own any of them or was the one to create the repository. Still, if anything is amiss feel free to reach out to me. [Contact](#contact-me)
