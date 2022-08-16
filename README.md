@@ -63,7 +63,6 @@ These are some books I've found looking through GitHub. I do not own any of them
 - [Eloquent Javascript](https://eloquentjavascript.net/) - Written by Marijn Haverbeke. I highly recommend reading this book if you are new to javascript.
 - [Books for programmers](https://github.com/ProwlingLynx/Book-For-Programmers/tree/master) - link to the original [repo](https://github.com/rajucs/Book-For-Programmers)
 - [BookBank](https://github.com/ProwlingLynx/BookBank)- link to the original [repo](https://github.com/ajitpal/BookBank)
-- [Free Algorithm Books](https://github.com/ProwlingLynx/Free-Algorithm-Books)- link to the original [repo](https://github.com/cjbt/Free-Algorithm-Books)
 - [You don't know JS](https://github.com/ProwlingLynx/You-Dont-Know-JS) -link to the original [repo](https://github.com/getify/You-Dont-Know-JS)
 
 <!-- https://api.github.com/repos/:owner/:repo/contents/:path -->
