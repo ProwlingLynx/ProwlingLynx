@@ -3,9 +3,11 @@
 # <a id="greetings"></a> Greetings All!
 Welcome to my GitHub!
 
-My name is Javier Tamez and I am a software engineer, a Hack Reactor alumni, a web developer, and stubbornly curious.
+My name is Javier Tamez and I am a software engineer that believes coding is a craft that is meant to be enjoyed by everyone.
 
-Here you will find my beautifully unorganized repositories that range from shiny baubles I've found in the wild to my most recent personal projects like my fledgling markdown blog experiment. I do enjoy it when people come to visit my profile and see what I've been up to. If you would like to chat, then reach out to me on LinkedIn or send me an email. I look forward to hearing from you!
+I love stories. We live them, breathe them, and make them intentionally or without thought. When we write code it is a story that is enacted faithfully by our mechanical storytellers (computers). They act(method) out each character(object) according to the scripts(code) and props(data) we give them. Sure the occasional typo(bug) will cause chaos, but we as authors(developers) are also part of the show(product).
+
+I say this so you can share in my joy when visiting my work. Feel free to reach out to me and schedule a chat on [Linkedin](https://www.linkedin.com/in/javier-tamez/).
 
 ## <a id="contact-me"></a> Contact Details:
 🌱 Currently looking for work :)
@@ -18,23 +20,15 @@ Linkedin: [Javier Tamez](https://www.linkedin.com/in/javier-tamez/)
 
 Portfolio: Under construction :]
 
-## Index
-- [Greetings](#greetings)
-- [Contact details](#contact-me)
-- [Technologies](#tech)
-- [About Me](#about-me)
-- [Sus Puppies](https://github.com/Shady-Wolves/Sus-Puppies) - One of the last repositories I built while attending Hack Reactor.
-- [Catz and Quartz](https://github.com/Team-Quartz/Front-End-Capstone) - The first time I collaborated on a team project. I was still attending Hack Reactor at the time.
-- [Books](#books)
+## Currently Learning
+Learning more about Java. I love Javascript and all of its weirdness, but there is something fun about the way Java describes itself. Still learning how to implement OOP principles seamlessly into my Java code.
 
-## <a id="about-me"></a> About Me
-I generally enjoy playing games with friends and family. I collect, paint, and assemble miniatures for a tabletop game called Warhammer 40k. My family consists of 3 dogs, a cat, a bird, and 3 siblings plus parents. I am the oldest of the bunch, but you wouldn't be able to tell because I'm also the shortest.
-
-When I'm not coding I tend to browse youtube, read web fiction, walk the dog(s), or play video games. Provided I don't have any outstanding responsibilities.
+I'm also studying c# on the side. Mostly for how similar it feels to Java.
 
 ## <a id="tech"></a> Tech
 <!-- ![Alt text](./svgs/logo-javascript.svg) -->
 <div display="flex" flex-direction="row" flex-wrap="wrap">
+  <img src="./svgs/java.svg" height="50px" width="50px"/>
   <img src="./svgs/logo-javascript.svg" height="50px" width="50px"/>
   <img src="./svgs/html-1.svg" height="50px" width="50px"/>
   <img src="./svgs/css-3.svg" height="50px" width="50px"/>
