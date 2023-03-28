@@ -18,7 +18,7 @@ Email: [prowling.lynx1@gmail.com](prowling.lynx1@gmail.com)
 
 Linkedin: [Javier Tamez](https://www.linkedin.com/in/javier-tamez/)
 
-Portfolio: [Under construction :)](https://prowlinglynx.github.io/)
+Portfolio: [Still working on it, but feel free to drop by and chat about it :)](https://www.tamezjavier.dev/)
 
 ## Currently Learning
 Learning more about Java. I love Javascript and all of its weirdness, but there is something fun about the way Java describes itself. Still learning how to implement OOP principles seamlessly into my Java code.
