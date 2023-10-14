@@ -1,31 +1,28 @@
-<img src="./images/d&d.jpeg" width="100%" height="100%" z-index="-2" position="absolute"/>
 
-# <a id="greetings"></a> Greetings All!
-Welcome to my GitHub!
+# Greetings All!
+<img src="./images/lynx_pc.jpg" width="300px" height="250px" z-index="-2" position="absolute"/>
+<p>Hello and welcome!</p>
 
-My name is Javier Tamez and I am a software engineer that believes coding is a craft that is meant to be enjoyed by everyone.
+<p>If you are coming from my gaming group, then send me an in game request and I will send you a link with instructions on how to run my GAS scripts. I am not looking for contributors at this time.</p>
 
-I love stories. We live them, breathe them, and make them intentionally or without thought. When we write code it is a story that is enacted faithfully by our mechanical storytellers (computers). They act(method) out each character(object) according to the scripts(code) and props(data) we give them. Sure the occasional typo(bug) will cause chaos, but we as authors(developers) are also part of the show(product).
+<p>If you are coming from my Bitbucket, then be aware I will be closing that account in the near future. I do not plan to move the projects here.</p>
 
-I say this so you can share in my joy when visiting my work. Feel free to reach out to me and schedule a chat on [Linkedin](https://www.linkedin.com/in/javier-tamez/).
+<p>Otherwise, feel free to look around and check out some of my past projects and what I might be working on.</p>
+<hr>
 
-## <a id="contact-me"></a> Contact Details:
-🌱 Currently looking for work :)
+## What I am Planning
+<img src="./images/lynx_sunset.jpg" width="300px" height="250px" z-index="-2" position="absolute"/>
+<p>I am taking a break from Google App Script (GAS) development and my freelance work. Currently I am pursuing my degree in Computer Science at San Jacinto (Graduation: 2027-28) and will be working on my core engineering skills in the mean time.</p>
+<hr>
 
-Resume: [Public Resume](https://docs.google.com/document/d/108FOg323Tvo0_gLL_rF1ExxItyJYgDeS3QqVsiDcmH8/edit?usp=sharing)
+## Why Cats?
+<img src="./images/cat_boop.jpg" width="300px" height="250px" z-index="-2" position="absolute"/>
+<p>I like cats. They are better than dogs :P</p>
+<p>Honestly, I find cats to be an interesting animal that catches peoples attention. It also doesn't hurt that I like cat pictures too. These images I created using the DALL-E 2 AI image creator. In some ways these pictures tell a story if you start in reverse order.</p>
+<p>If you have some cat images you want to share or chat in general then hit me up on <a href="https://www.linkedin.com/in/javier-tamez/" target="_blank">LinkedIn</a></p>
+<hr>
 
-Email: [prowling.lynx1@gmail.com](prowling.lynx1@gmail.com)
-
-Linkedin: [Javier Tamez](https://www.linkedin.com/in/javier-tamez/)
-
-Portfolio: [Still working on it, but feel free to drop by and chat about it :)](https://www.tamezjavier.dev/)
-
-## Currently Learning
-Learning more about Java. I love Javascript and all of its weirdness, but there is something fun about the way Java describes itself. Still learning how to implement OOP principles seamlessly into my Java code.
-
-I'm also studying c# on the side. Mostly for how similar it feels to Java.
-
-## <a id="tech"></a> Tech
+## Tech
 <!-- ![Alt text](./svgs/logo-javascript.svg) -->
 <div display="flex" flex-direction="row" flex-wrap="wrap">
   <img src="./svgs/java.svg" height="50px" width="50px"/>
@@ -52,14 +49,6 @@ I'm also studying c# on the side. Mostly for how similar it feels to Java.
   <img src="./svgs/webpack-icon.svg" height="50px" width="50px"/>
 </div>
 
-## <a id="books"></a> Books
-These are some books I've found looking through GitHub. I do not own any of them or was the one to create the repository. Still, if anything is amiss feel free to reach out to me. [Contact](#contact-me)
-- [Eloquent Javascript](https://eloquentjavascript.net/) - Written by Marijn Haverbeke. I highly recommend reading this book if you are new to javascript.
-- [Books for programmers](https://github.com/ProwlingLynx/Book-For-Programmers/tree/master) - link to the original [repo](https://github.com/rajucs/Book-For-Programmers)
-- [BookBank](https://github.com/ProwlingLynx/BookBank)- link to the original [repo](https://github.com/ajitpal/BookBank)
-- [You don't know JS](https://github.com/ProwlingLynx/You-Dont-Know-JS) -link to the original [repo](https://github.com/getify/You-Dont-Know-JS)
-
-<!-- https://api.github.com/repos/:owner/:repo/contents/:path -->
 
 <!--
 **ProwlingLynx/ProwlingLynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
